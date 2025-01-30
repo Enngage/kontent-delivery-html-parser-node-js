@@ -1,3 +1,6 @@
+> [!CAUTION]
+> This repository is no longer maintained. Resolving of Richtext element has been superseded by https://www.npmjs.com/package/@kontent-ai/rich-text-resolver
+
 # Node.js parser for Rich text elements
 
 This library is an optional addon for the [javascript delivery SDK](https://github.com/kontent-ai/delivery-sdk-js)
